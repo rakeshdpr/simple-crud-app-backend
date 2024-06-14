@@ -1,1 +1,1 @@
-#  simple crud api backend
+#  simple crud app backend
